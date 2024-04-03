@@ -1,0 +1,11 @@
+:host {
+  overflow: hidden;
+}
+
+.header {
+  font-size: 2em;
+  color: white;
+  padding: 20px;
+  margin: 0;
+  position: absolute;
+}
